@@ -1,7 +1,7 @@
 {
-  "versionCode": 1015,
-  "versionName": "1.4.15",
+  "versionCode": 1016,
+  "versionName": "1.4.16",
   "notes": "Neu: fit+ Administration mit E-Mail- und Übersichtsreiter. Testmodus mit Antwortentwürfen, Bearbeiten, Ignorieren und Lernbeispielen.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1015.apk",
-  "sha256": "9ee781bd2e965858e171cdbf4d64462c7c2a22fd5b4ae2c9faa469abee50e598"
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1016.apk",
+  "sha256": "eda4e9d1f4caeca482c6e38a885d7f1d7b0fce51ebdec73dd7d900308e32532a"
 }
