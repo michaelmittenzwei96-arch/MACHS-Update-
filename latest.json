@@ -1,7 +1,7 @@
 {
-  "versionCode": 1011,
-  "versionName": "1.3.11",
-  "notes": "Automatische Update-Prüfung für MACH’S und Fehlerbehebungen.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1011.apk",
-  "sha256": "2b8baee006d8c28df8cd7b077e136c0be442e0445aefeea0053ddd9a988a3394"
+  "versionCode": 1013,
+  "versionName": "1.4.13",
+  "notes": "Neu: fit+ Administration mit E-Mail- und Übersichtsreiter. Testmodus mit Antwortentwürfen, Bearbeiten, Ignorieren und Lernbeispielen.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1013.apk",
+  "sha256": "6c47a28bffe21397d7c2444805c9345342416ff7b4023b679b1653d06169fd04"
 }
