@@ -1,7 +1,7 @@
 {
-  "versionCode": 1023,
-  "versionName": "1.5.23",
+  "versionCode": 1026,
+  "versionName": "1.5.26",
   "notes": "Neu: fit+ Planer mit Übersicht, Aufgaben und E-Mail. Unveränderte Aufgaben, Widget und Grundwissen zu den zwei Studios. Mail-Testmodus für 2 Gmail und 2 all-inkl-Konten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1023.apk",
-  "sha256": "e7e41b13ec389bc67e175395ff09d0c696c2b6ec59f7b6a973b348ee5631f40e"
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1026.apk",
+  "sha256": "c0c36e9f564bc2b85119691e0841971bb905d40f01860c9a9e2ff79c8e0bb8b8"
 }
