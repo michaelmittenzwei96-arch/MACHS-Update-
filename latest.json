@@ -1,7 +1,7 @@
 {
-  "versionCode": 1017,
-  "versionName": "1.4.17",
-  "notes": "Neu: fit+ Administration mit E-Mail- und Übersichtsreiter. Testmodus mit Antwortentwürfen, Bearbeiten, Ignorieren und Lernbeispielen.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1017.apk",
-  "sha256": "a5f079f76ff7f6aa47d4c7fa5ebeca92a1fa221bf85c5ff15686172bee34ab40"
+  "versionCode": 1021,
+  "versionName": "1.5.21",
+  "notes": "Neu: fit+ Planer mit Übersicht, Aufgaben und E-Mail. Unveränderte Aufgaben, Widget und Grundwissen zu den zwei Studios. Mail-Testmodus für 2 Gmail und 2 all-inkl-Konten.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1021.apk",
+  "sha256": "0588e632a57ba31b971999aa2a4d68197437f21b9fcc31782c84d93c3e186a6f"
 }
