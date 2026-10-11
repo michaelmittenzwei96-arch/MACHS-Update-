@@ -1,7 +1,7 @@
 {
-  "versionCode": 1046,
-  "versionName": "1.10.46",
-  "notes": "KI-Entwürfe: Gewählte Nachricht wird bei laufender Erstellung vorgemerkt; Fehler zu API-Guthaben, Schlüssel oder Netzwerk werden konkret angezeigt. Zeitüberschreitungen beenden den Ladezustand.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1046.apk",
-  "sha256": "914d497d220cf462755b4112fe5ddd341a34459b5d9c618ef0771a8ae9ba2802"
+  "versionCode": 1049,
+  "versionName": "1.11.49",
+  "notes": "Mail-Synchronisierung im Hintergrund, Benachrichtigungen mit Entwurf/Senden/Bearbeiten/Ignorieren, kompakte Maildarstellung und lesbare Sonderzeichen. KI-Entwürfe: Gewählte Nachricht wird bei laufender Erstellung vorgemerkt; Fehler zu API-Guthaben, Schlüssel oder Netzwerk werden konkret angezeigt. Zeitüberschreitungen beenden den Ladezustand.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1049.apk",
+  "sha256": "5be8f499b1b1a56cf98c31ebe633a8972ddc8ca500113e7b6d78ea72a34436c7"
 }
