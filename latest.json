@@ -1,7 +1,7 @@
 {
-  "versionCode": 1083,
-  "versionName": "2.0.83",
-  "notes": "Startseite neu gestaltet: transparenter fit+ Schriftzug, feste Übersicht ohne Seitenscrollen, kompakte Aufgaben- und Mail-Zähler, Notiz- und Aufgaben-Schnellaktionen, Posteingang mit eigenen scrollbaren Mailzeilen und einzelnen KI-Antworten sowie schwebender KI-Assistent. Verbesserte Android-16-Emulatorprüfung.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1083.apk",
-  "sha256": "2abd468176697088654a33ba442d95fb927096d4aac9782c575d85aec892138a"
+  "versionCode": 1084,
+  "versionName": "2.0.84",
+  "notes": "Startseite final korrigiert: fit+ Logo als echtes transparentes und im Darkmode lesbares Asset, KI-Assistent jetzt unten rechts ohne verdeckte Mails, MIME-codierte Absender und Betreffzeilen (UTF-8, Umlaute) korrekt lesbar – auch bei bereits gespeicherten Nachrichten.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1084.apk",
+  "sha256": "9c35460c448c40d251abe402e3f1595a85220f72ec410456096aa31d6ae7c613"
 }
