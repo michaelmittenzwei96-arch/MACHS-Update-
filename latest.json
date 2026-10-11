@@ -1,7 +1,7 @@
 {
-  "versionCode": 1044,
-  "versionName": "1.8.44",
-  "notes": "E-Mail neu: Übersicht und vier Postfächer, automatischer Abruf alle 60 Sekunden im geöffneten E-Mail-Bereich, gelesene Mails, KI-Entwürfe und Antworten mit Senden/Bearbeiten/Ignorieren. Club-Postfächer einmalig mit all-inkl-Mailzugang einrichten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1044.apk",
-  "sha256": "b9f5e96b07e0acaf62c89c9118dbb35ee785371c2c8b999cb0d22e8e7aca89a2"
+  "versionCode": 1045,
+  "versionName": "1.9.45",
+  "notes": "KI-Mails automatisch: Gmail-Entwürfe werden auch bei geschlossener App vorbereitet. Bearbeitete Antworten werden gespeichert und für Grimma und Neukirchen getrennt als Lernbeispiele analysiert. Versand bleibt manuell.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1045.apk",
+  "sha256": "59e4ae56f5cacb24c29290b2ce710aca9f9b1da676ae0e1335a99c452b964312"
 }
