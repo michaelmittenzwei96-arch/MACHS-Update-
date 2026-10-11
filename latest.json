@@ -1,7 +1,7 @@
 {
-  "versionCode": 1074,
-  "versionName": "2.0.74",
+  "versionCode": 1077,
+  "versionName": "2.0.77",
   "notes": "Sprachassistent für E-Mails: Auftrag in Notiz einsprechen, KI erstellt Betreff und Text. Verwaltung als gespeicherter Empfänger; vier wählbare Absender, Bearbeiten und bestätigter Versand. Neue Mails und Antworten werden verschlüsselt gespeichert und verbessern spätere Vorlagen.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1074.apk",
-  "sha256": "6a41909382fe826c5f0a3fb263fea7f7bf1713d4885cd93f03a743f2d7f107e6"
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1077.apk",
+  "sha256": "b8a1809ad342dbf67f31d84fe5ad7ca213bdc401071ac21d96a0dfe7a7809b2e"
 }
