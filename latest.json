@@ -1,7 +1,7 @@
 {
-  "versionCode": 1063,
-  "versionName": "2.0.63",
-  "notes": "E-Mail & KI in Einstellungen: automatische KI-Entwürfe und Mail-Synchronisierung unabhängig schalten; KI standardmäßig aus. Manuelles Generieren und Abrufen über Posteingang weiterhin möglich, Status der Benachrichtigungen entsprechend angepasst.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1063.apk",
-  "sha256": "e4b6592494bc9ec0e1ad8e133dadfcae4c4069ccc90154c54ae493831af0ec85"
+  "versionCode": 1074,
+  "versionName": "2.0.74",
+  "notes": "Sprachassistent für E-Mails: Auftrag in Notiz einsprechen, KI erstellt Betreff und Text. Verwaltung als gespeicherter Empfänger; vier wählbare Absender, Bearbeiten und bestätigter Versand. Neue Mails und Antworten werden verschlüsselt gespeichert und verbessern spätere Vorlagen.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1074.apk",
+  "sha256": "6a41909382fe826c5f0a3fb263fea7f7bf1713d4885cd93f03a743f2d7f107e6"
 }
