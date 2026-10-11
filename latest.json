@@ -1,7 +1,7 @@
 {
-  "versionCode": 1054,
-  "versionName": "2.0.54",
+  "versionCode": 1055,
+  "versionName": "2.0.55",
   "notes": "fit+ Planer V2: neue professionelle Oberfläche, Hell/Dunkel/System, sortierte Einstellungen, stabile Maildarstellung, Notizen mit Sprache und Widget, interner Kalender mit bestätigten Terminvorschlägen. Vorhandene Postfach-Verbindungen bleiben bestehen.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1054.apk",
-  "sha256": "e221ceca58bb979836aa1f6fcc54f2cab342510d3c436f3667e540e4078aa698"
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1055.apk",
+  "sha256": "6ca387b34110df9ffe607a66d82e759931e435da357366a56ccd7d9f41f777ab"
 }
