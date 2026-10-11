@@ -1,7 +1,7 @@
 {
-  "versionCode": 1086,
-  "versionName": "2.0.86",
-  "notes": "KI-Assistent erweitert: grünen Kreis öffnen für Schreibchat oder direkten Sprachchat, gesprochene KI-Antworten, App-Aktionen mit Freigabe für E-Mail-Entwürfe, Notizen, Aufgaben und Termine, Nachrichtensuche und verschlüsseltes Schreibgedächtnis. Anhänge und Drei-Jahres-Import bleiben erhalten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1086.apk",
-  "sha256": "d41b4f0c109d1f3b75d125bfdd31d67b66c95a92648c76f2ccdb3271abd5f010"
+  "versionCode": 1088,
+  "versionName": "2.0.88",
+  "notes": "E-Mails an die Verwaltung weiterleiten: originalen Text als editierbare Vorlage übernehmen, Auswahl per KI oder Sprache, Empfänger und Absender prüfen, erst nach Freigabe senden. Originalanhänge werden vorab ausdrücklich gekennzeichnet. Startseite öffnet jetzt genau die ausgewählte Nachricht. Neue verschlüsselte Studio-Wissensdatenbank mit getrennten Fakten, zeitlich begrenzten Aktionen, täglichem Gültigkeitsabgleich und Anwendung bei KI-Antworten.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1088.apk",
+  "sha256": "a051939bcae7d291cd9221fa9e6d38faeb99a7cb5293d02b8c5fc008ebfb1ef4"
 }
