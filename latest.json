@@ -1,7 +1,7 @@
 {
-  "versionCode": 1050,
-  "versionName": "1.11.50",
-  "notes": "Mail-Synchronisierung im Hintergrund, Benachrichtigungen mit Entwurf/Senden/Bearbeiten/Ignorieren, kompakte Maildarstellung und lesbare Sonderzeichen. KI-Entwürfe: Gewählte Nachricht wird bei laufender Erstellung vorgemerkt; Fehler zu API-Guthaben, Schlüssel oder Netzwerk werden konkret angezeigt. Zeitüberschreitungen beenden den Ladezustand.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1050.apk",
-  "sha256": "b2ee682a27b2dd5b7ebfe7f557f0772a0661c9fa88ecc0743d8189c9dbfb200a"
+  "versionCode": 1054,
+  "versionName": "2.0.54",
+  "notes": "fit+ Planer V2: neue professionelle Oberfläche, Hell/Dunkel/System, sortierte Einstellungen, stabile Maildarstellung, Notizen mit Sprache und Widget, interner Kalender mit bestätigten Terminvorschlägen. Vorhandene Postfach-Verbindungen bleiben bestehen.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1054.apk",
+  "sha256": "e221ceca58bb979836aa1f6fcc54f2cab342510d3c436f3667e540e4078aa698"
 }
