@@ -1,7 +1,7 @@
 {
-  "versionCode": 1061,
-  "versionName": "2.0.61",
-  "notes": "Samsung-Widget grundlegend vereinfacht: stabile direkte Anzeige der drei aktuellsten Notizen oder Aufgaben, neue Einträge und Spracheingabe per Taste, ohne fehleranfälligen Remote-Listendienst. Neue E-Mail-Benachrichtigungen bleiben aktiv, die dauerhafte Sync-Meldung bleibt entfernt.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1061.apk",
-  "sha256": "5bfd85934a872099a9649b94d690101801001264af4e3a6c2d45b038088ca905"
+  "versionCode": 1063,
+  "versionName": "2.0.63",
+  "notes": "E-Mail & KI in Einstellungen: automatische KI-Entwürfe und Mail-Synchronisierung unabhängig schalten; KI standardmäßig aus. Manuelles Generieren und Abrufen über Posteingang weiterhin möglich, Status der Benachrichtigungen entsprechend angepasst.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1063.apk",
+  "sha256": "e4b6592494bc9ec0e1ad8e133dadfcae4c4069ccc90154c54ae493831af0ec85"
 }
