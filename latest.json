@@ -1,7 +1,7 @@
 {
-  "versionCode": 1041,
-  "versionName": "1.7.41",
-  "notes": "Neu: Gmail 1 und 2 direkt über Google anmelden, sichere Kontoverbindung und schreibgeschützte Posteingang-Vorschau. Noch kein echter E-Mail-Versand. Aufgaben und private Wissensbasis bleiben erhalten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1041.apk",
-  "sha256": "af8099c334742bdb0347597983e21c46740a1e70176e7dab7af104149dac5667"
+  "versionCode": 1044,
+  "versionName": "1.8.44",
+  "notes": "E-Mail neu: Übersicht und vier Postfächer, automatischer Abruf alle 60 Sekunden im geöffneten E-Mail-Bereich, gelesene Mails, KI-Entwürfe und Antworten mit Senden/Bearbeiten/Ignorieren. Club-Postfächer einmalig mit all-inkl-Mailzugang einrichten.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1044.apk",
+  "sha256": "b9f5e96b07e0acaf62c89c9118dbb35ee785371c2c8b999cb0d22e8e7aca89a2"
 }
