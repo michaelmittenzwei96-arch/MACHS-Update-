@@ -1,7 +1,7 @@
 {
-  "versionCode": 1085,
-  "versionName": "2.0.85",
-  "notes": "E-Mail-Anhänge: Büroklammer in Startseite und Postfächern, Dateiliste beim Öffnen und sicheres Öffnen von PDF/Bildern/Dokumenten (max. 12 MB). KI-Schreibgedächtnis auf drei Jahre erweitert, Kontakte aus historischen Mailverläufen.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1085.apk",
-  "sha256": "442b729392c48057303691442bcaecbe2c488e14a685228c6ac8cfccf9e5562b"
+  "versionCode": 1086,
+  "versionName": "2.0.86",
+  "notes": "KI-Assistent erweitert: grünen Kreis öffnen für Schreibchat oder direkten Sprachchat, gesprochene KI-Antworten, App-Aktionen mit Freigabe für E-Mail-Entwürfe, Notizen, Aufgaben und Termine, Nachrichtensuche und verschlüsseltes Schreibgedächtnis. Anhänge und Drei-Jahres-Import bleiben erhalten.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1086.apk",
+  "sha256": "d41b4f0c109d1f3b75d125bfdd31d67b66c95a92648c76f2ccdb3271abd5f010"
 }
