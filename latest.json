@@ -1,7 +1,7 @@
 {
-  "versionCode": 1060,
-  "versionName": "2.0.60",
-  "notes": "Keine dauerhafte Synchronisierungs-Benachrichtigung mehr; neue E-Mail-Benachrichtigungen bleiben aktiv. 60-Sekunden-Abruf in der geöffneten App, geräuschlose Android-Hintergrundabrufe frühestens etwa alle 15 Minuten. Neue Samsung-artige Konten-Navigation und Gelesen-Funktionen enthalten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1060.apk",
-  "sha256": "59c62ff67ba708e770c7af46fe24b7fa365efb207a94d683902ccf4c24c459c2"
+  "versionCode": 1061,
+  "versionName": "2.0.61",
+  "notes": "Samsung-Widget grundlegend vereinfacht: stabile direkte Anzeige der drei aktuellsten Notizen oder Aufgaben, neue Einträge und Spracheingabe per Taste, ohne fehleranfälligen Remote-Listendienst. Neue E-Mail-Benachrichtigungen bleiben aktiv, die dauerhafte Sync-Meldung bleibt entfernt.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1061.apk",
+  "sha256": "5bfd85934a872099a9649b94d690101801001264af4e3a6c2d45b038088ca905"
 }
