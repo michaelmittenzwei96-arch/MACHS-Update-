@@ -1,7 +1,7 @@
 {
-  "versionCode": 1088,
-  "versionName": "2.0.88",
-  "notes": "E-Mails an die Verwaltung weiterleiten: originalen Text als editierbare Vorlage übernehmen, Auswahl per KI oder Sprache, Empfänger und Absender prüfen, erst nach Freigabe senden. Originalanhänge werden vorab ausdrücklich gekennzeichnet. Startseite öffnet jetzt genau die ausgewählte Nachricht. Neue verschlüsselte Studio-Wissensdatenbank mit getrennten Fakten, zeitlich begrenzten Aktionen, täglichem Gültigkeitsabgleich und Anwendung bei KI-Antworten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1088.apk",
-  "sha256": "a051939bcae7d291cd9221fa9e6d38faeb99a7cb5293d02b8c5fc008ebfb1ef4"
+  "versionCode": 1089,
+  "versionName": "2.0.89",
+  "notes": "NEU: Zweites Homescreen-Widget für KI-Sprachassistent, E-Mail, Aufgaben, Notizen und Kalender. Scrollbare Mail-Vorschau mit Lesen und individueller KI-Antwort. Bearbeitbarer Prüf-Editor für Absender, Empfänger, Betreff, Text und ausdrücklich bestätigten Versand. Korrekturen automatisch verschlüsselt als Entwurf sichern und nach bestätigtem Versand für zukünftige Vorschläge verwenden. Erstes Widget unverändert.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1089.apk",
+  "sha256": "6196ddb7624160c26c1dc21b9840298498f9e683363341008fcabff995403dff"
 }
