@@ -1,7 +1,7 @@
 {
-  "versionCode": 1033,
-  "versionName": "1.6.33",
+  "versionCode": 1034,
+  "versionName": "1.6.34",
   "notes": "Neu: private Wissensbasis über Cloudflare verbinden, sicherer App-Schlüssel, Live-Abruf vor E-Mail-Entwürfen und Verbindungstest. Aufgaben und Widget bleiben erhalten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1033.apk",
-  "sha256": "3e12067cfa341e9534bb420745249fb300a2bec1515555e78052ffc032500b71"
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1034.apk",
+  "sha256": "a74bb88c05f4dfe3a072604dda5312c1b604ebccfe9e630674f9aa85c487c621"
 }
