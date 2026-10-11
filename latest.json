@@ -1,7 +1,7 @@
 {
-  "versionCode": 1034,
-  "versionName": "1.6.34",
-  "notes": "Neu: private Wissensbasis über Cloudflare verbinden, sicherer App-Schlüssel, Live-Abruf vor E-Mail-Entwürfen und Verbindungstest. Aufgaben und Widget bleiben erhalten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1034.apk",
-  "sha256": "a74bb88c05f4dfe3a072604dda5312c1b604ebccfe9e630674f9aa85c487c621"
+  "versionCode": 1039,
+  "versionName": "1.7.39",
+  "notes": "Neu: Gmail 1 und 2 direkt über Google anmelden, sichere Kontoverbindung und schreibgeschützte Posteingang-Vorschau. Noch kein echter E-Mail-Versand. Aufgaben und private Wissensbasis bleiben erhalten.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1039.apk",
+  "sha256": "64e66b7cfa49f2158a89170b9e70da717d6fdf09034ffeaf4406e7557071d451"
 }
