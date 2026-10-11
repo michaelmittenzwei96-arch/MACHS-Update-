@@ -1,7 +1,7 @@
 {
-  "versionCode": 1045,
-  "versionName": "1.9.45",
-  "notes": "KI-Mails automatisch: Gmail-Entwürfe werden auch bei geschlossener App vorbereitet. Bearbeitete Antworten werden gespeichert und für Grimma und Neukirchen getrennt als Lernbeispiele analysiert. Versand bleibt manuell.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1045.apk",
-  "sha256": "59e4ae56f5cacb24c29290b2ce710aca9f9b1da676ae0e1335a99c452b964312"
+  "versionCode": 1046,
+  "versionName": "1.10.46",
+  "notes": "KI-Entwürfe: Gewählte Nachricht wird bei laufender Erstellung vorgemerkt; Fehler zu API-Guthaben, Schlüssel oder Netzwerk werden konkret angezeigt. Zeitüberschreitungen beenden den Ladezustand.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1046.apk",
+  "sha256": "914d497d220cf462755b4112fe5ddd341a34459b5d9c618ef0771a8ae9ba2802"
 }
