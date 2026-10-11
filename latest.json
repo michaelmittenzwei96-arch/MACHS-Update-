@@ -1,7 +1,7 @@
 {
-  "versionCode": 1039,
-  "versionName": "1.7.39",
+  "versionCode": 1041,
+  "versionName": "1.7.41",
   "notes": "Neu: Gmail 1 und 2 direkt über Google anmelden, sichere Kontoverbindung und schreibgeschützte Posteingang-Vorschau. Noch kein echter E-Mail-Versand. Aufgaben und private Wissensbasis bleiben erhalten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1039.apk",
-  "sha256": "64e66b7cfa49f2158a89170b9e70da717d6fdf09034ffeaf4406e7557071d451"
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1041.apk",
+  "sha256": "af8099c334742bdb0347597983e21c46740a1e70176e7dab7af104149dac5667"
 }
