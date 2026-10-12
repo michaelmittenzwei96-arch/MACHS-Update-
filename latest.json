@@ -1,7 +1,7 @@
 {
-  "versionCode": 1109,
-  "versionName": "2.0.109",
-  "notes": "MACHS AI: verschlüsselte Erfassung eingehender Mails für beide Studios, verbesserte Lernbeispiele und Qualitätsübersicht. Updateprüfung beim App-Start mit Wiederholung bei Verbindungsproblemen. Android-16-Testkorrekturen.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1109.apk",
-  "sha256": "3083073d1a0804e6202a6350fc284b76180b76275ad715698b5831d2be1a7ab1"
+  "versionCode": 1110,
+  "versionName": "3.1.110",
+  "notes": "fit+ Manager V3.1: Finanzen, Mitgliederübersicht, Manager-Server-Verbindung und verschlüsseltes gemeinsames KI-Gedächtnis. FitnessNation und My-Factura sind noch nicht verbunden und benötigen autorisierte Anbieter-Schnittstellen.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1110.apk",
+  "sha256": "413c7d00114803b5179fd2e27a60b415572761613edb6a8d39bb68e512a61967"
 }
