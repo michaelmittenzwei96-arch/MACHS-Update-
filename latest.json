@@ -1,7 +1,7 @@
 {
-  "versionCode": 1116,
-  "versionName": "3.2.1.116",
-  "notes": "fit+ Manager V3.2.1: Fitness Nation und myFactura jetzt direkt innerhalb der App öffnen und anmelden, auch ohne Cloud-Server. Gespeicherte lokale WebView-Sitzungen, auswählbare Studios. Automatischer 03:00-Datenabgleich benötigt weiterhin den externen Connector.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1116.apk",
-  "sha256": "3f556987386dc98f91166241137b34acefc15d03550946b013af993f4985e29a"
+  "versionCode": 1118,
+  "versionName": "3.2.2.118",
+  "notes": "fit+ Manager V3.2.2: Cloud-Abgleich und lokaler CSV-Import getrennt, Anmeldung und CSV-Download in der App, geprüfte Fitness-Nation-Mitgliederstände lokal verschlüsselt speichern und auswerten. MyFactura benötigt noch verifizierte Spalten; automatischer Abruf 03:00 Uhr benötigt einen separaten Server.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1118.apk",
+  "sha256": "15251e17e6e9c467466b3a11968d9227c62923ffdc1fed15962384916ec107ea"
 }
