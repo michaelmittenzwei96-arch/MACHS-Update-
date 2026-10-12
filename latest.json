@@ -1,7 +1,7 @@
 {
-  "versionCode": 1114,
-  "versionName": "3.1.114",
-  "notes": "fit+ Manager V3.1: Finanzen, Mitgliederübersicht, Manager-Server-Verbindung und verschlüsseltes gemeinsames KI-Gedächtnis. FitnessNation und My-Factura sind noch nicht verbunden und benötigen autorisierte Anbieter-Schnittstellen.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1114.apk",
-  "sha256": "108724e5fa867861035d83ab30b7683a353e2530dcc54f62ccdf5a8d48433f26"
+  "versionCode": 1115,
+  "versionName": "3.2.115",
+  "notes": "fit+ Manager V3.2: Getrennter Browser-Connector für Fitness Nation und myFactura, vier Studio-Verbindungsansichten, verschlüsselte Sitzungen, manueller Abruf und 03:00-Planung. Für echte Anbieterabrufe müssen Connector-Server und verifizierte Exportabläufe eingerichtet sein.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1115.apk",
+  "sha256": "d2009b610e001f6c88c075f6e4aa335c7ac3de00ad93225bb8742abb1b6bd551"
 }
