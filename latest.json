@@ -1,7 +1,7 @@
 {
-  "versionCode": 1094,
-  "versionName": "2.0.94",
-  "notes": "Widgets optimiert: Kalender zeigt nun auch vergangene Termine in angrenzenden Vormonats-/Folgemonatstagen der Monatsübersicht. Kalender-Widget jetzt im gleichen professionellen dunkelgrünen fit+ Design wie die beiden anderen Widgets. Unten rechts im E-Mail-Widget und Kalender-Widget jeweils ein eigener Aktualisieren-Knopf mit sichtbarer Pfeil-Drehanimation während der Aktualisierung und kurzem Fertig-Häkchen. E-Mail aktualisiert echte Postfächer, Kalender liest die vorhandenen gespeicherten Termine und Aufgaben neu. Erstes Notiz-Widget unverändert.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1094.apk",
-  "sha256": "dd3adc684cd6b639cfeab527f0fa857cb71bd19da080d84602c49df00bd57006"
+  "versionCode": 1109,
+  "versionName": "2.0.109",
+  "notes": "MACHS AI: verschlüsselte Erfassung eingehender Mails für beide Studios, verbesserte Lernbeispiele und Qualitätsübersicht. Updateprüfung beim App-Start mit Wiederholung bei Verbindungsproblemen. Android-16-Testkorrekturen.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1109.apk",
+  "sha256": "3083073d1a0804e6202a6350fc284b76180b76275ad715698b5831d2be1a7ab1"
 }
