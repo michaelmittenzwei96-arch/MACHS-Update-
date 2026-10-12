@@ -1,7 +1,7 @@
 {
-  "versionCode": 1115,
-  "versionName": "3.2.115",
-  "notes": "fit+ Manager V3.2: Getrennter Browser-Connector für Fitness Nation und myFactura, vier Studio-Verbindungsansichten, verschlüsselte Sitzungen, manueller Abruf und 03:00-Planung. Für echte Anbieterabrufe müssen Connector-Server und verifizierte Exportabläufe eingerichtet sein.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1115.apk",
-  "sha256": "d2009b610e001f6c88c075f6e4aa335c7ac3de00ad93225bb8742abb1b6bd551"
+  "versionCode": 1116,
+  "versionName": "3.2.1.116",
+  "notes": "fit+ Manager V3.2.1: Fitness Nation und myFactura jetzt direkt innerhalb der App öffnen und anmelden, auch ohne Cloud-Server. Gespeicherte lokale WebView-Sitzungen, auswählbare Studios. Automatischer 03:00-Datenabgleich benötigt weiterhin den externen Connector.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1116.apk",
+  "sha256": "3f556987386dc98f91166241137b34acefc15d03550946b013af993f4985e29a"
 }
