@@ -1,7 +1,7 @@
 {
-  "versionCode": 1089,
-  "versionName": "2.0.89",
-  "notes": "NEU: Zweites Homescreen-Widget für KI-Sprachassistent, E-Mail, Aufgaben, Notizen und Kalender. Scrollbare Mail-Vorschau mit Lesen und individueller KI-Antwort. Bearbeitbarer Prüf-Editor für Absender, Empfänger, Betreff, Text und ausdrücklich bestätigten Versand. Korrekturen automatisch verschlüsselt als Entwurf sichern und nach bestätigtem Versand für zukünftige Vorschläge verwenden. Erstes Widget unverändert.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1089.apk",
-  "sha256": "6196ddb7624160c26c1dc21b9840298498f9e683363341008fcabff995403dff"
+  "versionCode": 1093,
+  "versionName": "2.0.93",
+  "notes": "Samsung-Widget-Fix: Zweites KI & E-Mail Widget und drittes Kalender-Widget verwenden ausschließlich Android-RemoteViews-kompatible Elemente. Neue echte AppWidgetHostView-Inflationstests prüfen beide Widgets und interaktive Mailzeilen. Das funktionierende erste Notiz-Widget bleibt unverändert. Sprachassistent, Mail-KI, Terminkalender und Push-Erinnerungen bleiben erhalten.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1093.apk",
+  "sha256": "0c977df74343e4b0c2ac78a8c613659a37cbcd6a00a65241acd39b99d9d552c5"
 }
