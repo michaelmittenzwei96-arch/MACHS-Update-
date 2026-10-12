@@ -1,7 +1,7 @@
 {
-  "versionCode": 1093,
-  "versionName": "2.0.93",
-  "notes": "Samsung-Widget-Fix: Zweites KI & E-Mail Widget und drittes Kalender-Widget verwenden ausschließlich Android-RemoteViews-kompatible Elemente. Neue echte AppWidgetHostView-Inflationstests prüfen beide Widgets und interaktive Mailzeilen. Das funktionierende erste Notiz-Widget bleibt unverändert. Sprachassistent, Mail-KI, Terminkalender und Push-Erinnerungen bleiben erhalten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1093.apk",
-  "sha256": "0c977df74343e4b0c2ac78a8c613659a37cbcd6a00a65241acd39b99d9d552c5"
+  "versionCode": 1094,
+  "versionName": "2.0.94",
+  "notes": "Widgets optimiert: Kalender zeigt nun auch vergangene Termine in angrenzenden Vormonats-/Folgemonatstagen der Monatsübersicht. Kalender-Widget jetzt im gleichen professionellen dunkelgrünen fit+ Design wie die beiden anderen Widgets. Unten rechts im E-Mail-Widget und Kalender-Widget jeweils ein eigener Aktualisieren-Knopf mit sichtbarer Pfeil-Drehanimation während der Aktualisierung und kurzem Fertig-Häkchen. E-Mail aktualisiert echte Postfächer, Kalender liest die vorhandenen gespeicherten Termine und Aufgaben neu. Erstes Notiz-Widget unverändert.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1094.apk",
+  "sha256": "dd3adc684cd6b639cfeab527f0fa857cb71bd19da080d84602c49df00bd57006"
 }
