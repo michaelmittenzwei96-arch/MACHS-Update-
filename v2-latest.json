@@ -1,0 +1,7 @@
+{
+  "versionCode": 1129,
+  "versionName": "2.0.129",
+  "notes": "MACHS AI: verschlüsselte Erfassung eingehender Mails für beide Studios, verbesserte Lernbeispiele und Qualitätsübersicht. Updateprüfung beim App-Start mit Wiederholung bei Verbindungsproblemen. Android-16-Testkorrekturen.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1129.apk",
+  "sha256": "62f506bff3313a130ca3fe80a95baeb2a5481e6f2602b5f5b3ad9e5aa74daf82"
+}
