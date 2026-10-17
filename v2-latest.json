@@ -1,7 +1,7 @@
 {
-  "versionCode": 1151,
-  "versionName": "2.0.151",
-  "notes": "V2 Optik: aufgeräumte Startseite und Einstellungen, Benutzerkonto unter Einstellungen, Schnellzugriffe im Planer-Widget über den Studiofiltern, Widget-Hinweise entfernt. Persönliche Farben, Kartenform, Schrift, Startseiten-Elemente sowie helle und dunkle Widget-Designs. Bestehende Konten und Daten bleiben erhalten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1151.apk",
-  "sha256": "687424bd97713232531e25ecb8be17ca0145ada14537f313f70f60c6752cc04c"
+  "versionCode": 1156,
+  "versionName": "2.0.156",
+  "notes": "Neukirchen gemeinsam: Aufgaben mit Zuständigen, Notizen, Kalender, Mailstatus und gesendete Mails synchronisieren. Offline-Warteschlange, Konfliktauflösung und Zusammenarbeit unter Einstellungen. V2 Optik: aufgeräumte Startseite und Einstellungen, Benutzerkonto unter Einstellungen, Schnellzugriffe im Planer-Widget über den Studiofiltern, Widget-Hinweise entfernt. Persönliche Farben, Kartenform, Schrift, Startseiten-Elemente sowie helle und dunkle Widget-Designs. Bestehende Konten und Daten bleiben erhalten.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1156.apk",
+  "sha256": "6bd143cf901b61b6d3a620712effa2d862582b3b6974fbaa07d4c563ee644ab7"
 }
