@@ -1,7 +1,7 @@
 {
-  "versionCode": 1150,
-  "versionName": "2.0.150",
+  "versionCode": 1151,
+  "versionName": "2.0.151",
   "notes": "V2 Optik: aufgeräumte Startseite und Einstellungen, Benutzerkonto unter Einstellungen, Schnellzugriffe im Planer-Widget über den Studiofiltern, Widget-Hinweise entfernt. Persönliche Farben, Kartenform, Schrift, Startseiten-Elemente sowie helle und dunkle Widget-Designs. Bestehende Konten und Daten bleiben erhalten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1150.apk",
-  "sha256": "f8296f7ae97f7c45b838058827eddc798c98386c5cdecc148ac07d7d01701454"
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1151.apk",
+  "sha256": "687424bd97713232531e25ecb8be17ca0145ada14537f313f70f60c6752cc04c"
 }
