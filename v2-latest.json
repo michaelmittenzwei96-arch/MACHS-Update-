@@ -1,7 +1,7 @@
 {
-  "versionCode": 1257,
-  "versionName": "2.0.257",
-  "notes": "Fitness Nation: Neuer bestätigter Mitglieder-Mehrseitenimport für /clients und vergleichbare Listen. Die App erkennt sichere Weiter-Schaltflächen, wartet auf geänderte Listendaten, speichert bis zu 120 Seiten einzeln und verschlüsselt je Studio und Konto und meldet Abbruch bzw. Teilimport ehrlich. Eigene Seitennummern im Archiv; wiederholte Inhalte werden erkannt. Weiterhin keine verifizierte vollständige Mitgliederakte, kein automatisch ausgeführter FN-Export und kein Hintergrundimport.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1257.apk",
-  "sha256": "36b9d046c2283a7dba61d69fd935cd8cdc7fe6c55d169310531e2786599235fc"
+  "versionCode": 1263,
+  "versionName": "2.0.263",
+  "notes": "Fitness Nation: Neu unter Verwaltung die Server-Erkundung. Nach separater Server-Anmeldung und ausdrücklicher Studiobestätigung läuft eine schreibgeschützte Prüfung von Menüs, Übersichtsseiten, Seitenwechseln und Exporthinweisen auch bei geschlossener App. Auftrag und Fortschritt bleiben gespeichert. Ein datensparsamer JSON-Prüfbericht steht zum Teilen bereit, auch bei Fehlern. Studiozugriffe sind getrennt und geschützt. Weiterhin kein automatischer vollständiger Mitglieder- oder Finanzimport und keine garantierte dauerhaft gültige Anbieter-Sitzung.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1263.apk",
+  "sha256": "be9ba21b30b34df4d409addc8e82bcfc9cee91a0bfc0cca5817e198be2d7c193"
 }
