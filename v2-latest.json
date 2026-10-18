@@ -1,7 +1,7 @@
 {
-  "versionCode": 1212,
-  "versionName": "2.0.212",
-  "notes": "Fitness Nation Web-Anmeldung im Planer erkennbar (separat je Studio), Datenimport noch nicht verbunden. Direkt-Browser je Studio: Anmeldung auf der echten Webseite, separat für Micha und Oli. Gemeinsames Update: Sprachassistent, Planer V2, Verwaltung und Finanzen. Fitness Nation: getrennte Studio-Anmeldung mit Datenschutz-Häkchen und verschlüsselten Sitzungen. Oli: Neukirchen und drei E-Mail-Postfächer inklusive Geschäftlich-Gmail. Live-Daten erst nach Freigabe der Verbindung.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1212.apk",
-  "sha256": "087b74a011a180b1b2334d071d7fd498743082493a098b25b9ecde38fb9c7bd4"
+  "versionCode": 1220,
+  "versionName": "2.0.220",
+  "notes": "Fitness Nation: FN-Erkundung im angemeldeten Browser, bis zu 12 sichere Übersichtsseiten prüfen, Menüpunkte und Exporthinweise erkennen und die Navigation verschlüsselt je Studio zentral merken. Verwaltung und Finanzen zeigen die gefundenen Wege. Bisherige lokale Tabellenerfassung und JSON-Export bleiben erhalten. Noch kein kompletter automatischer Mitglieder- oder Finanzimport.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1220.apk",
+  "sha256": "2e5779a55e59cc3594b16d61bc4038f0d1e9cf154b3c9dc1125010f11e9aa933"
 }
