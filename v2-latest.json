@@ -1,7 +1,7 @@
 {
-  "versionCode": 1308,
-  "versionName": "2.0.308",
+  "versionCode": 1309,
+  "versionName": "2.0.309",
   "notes": "Fitness Nation: Mitglieder automatisch aktualisieren nutzt jetzt den bereits angemeldeten Webbrowser pro Studio statt der von Fitness Nation abgewiesenen separaten Server-Anmeldung. Die App prüft den Arbeitsbereich, führt die Exportauswahl aus, wartet auf Download und überträgt die komplette CSV/XLSX-Datei nach Freigabe verschlüsselt zur Datenbank. Letzte Originaldatei wird ersetzt, Änderungen und Verlauf werden archiviert. Die App muss während des Web-Exports geöffnet bleiben. Echter Fitness-Nation-Live-Test steht noch aus. Grimma und Neukirchen bleiben getrennt.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1308.apk",
-  "sha256": "666cfad0f466bdbec3e647b3d59705e10950799d85deba72d944a2dcc51e1f8b"
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1309.apk",
+  "sha256": "13efc2229c5eb8810b388cabdd280214d8d92d9720b07aac4b53f5133b88bf65"
 }
