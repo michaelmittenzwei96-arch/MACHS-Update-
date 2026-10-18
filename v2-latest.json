@@ -1,7 +1,7 @@
 {
-  "versionCode": 1272,
-  "versionName": "2.0.272",
-  "notes": "Fitness Nation: Jetzt unter Verwaltung pro Studio direkt die bereits angemeldete FN-Webseite verwenden und eine sichere Leserunde starten. Kein zweiter Railway-Login für den lokalen Seitenimport. Nach Studiobestätigung erkundet die App bekannte Menü-/Übersichtsseiten und speichert sichtbare Tabellen verschlüsselt lokal. Suche, Rohdaten-JSON und zusätzlicher datensparsamer KI-Prüfbericht ohne Kundennamen/-nummern sind integriert. Die App muss während der Leserunde geöffnet bleiben. Separate Railway-Erkundung ist nur noch optional und benötigt eigene Anmeldung. Noch KEIN garantierter vollständiger CSV-, Akten- oder Finanzimport und KEIN Hintergrundimport bei geschlossener App.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1272.apk",
-  "sha256": "0499974715bbb5c1cd7c5e28eb1ede0d8ab60f52bda46739d7dccfc105e74624"
+  "versionCode": 1300,
+  "versionName": "2.0.300",
+  "notes": "Fitness Nation: Neuer Button Mitglieder automatisch aktualisieren pro Studio. Ein verbundener Railway-Browser versucht nach Studioprüfung selbst Verwaltung > Mitglieder > Übersicht > Export, wählt alle Tabs und Exportfelder, wartet bei Fitness Nation bis die Datei bereit ist und lädt sie in die verschlüsselte Serverdatenbank. Neu- und Bestandsdaten werden abgeglichen, die letzte Originaldatei wird ersetzt und Feldänderungen bleiben historisch gespeichert. Der Auftrag läuft auch bei geschlossener App weiter. Eine separate Fitness-Nation-Server-Anmeldung ist erforderlich; der echte Anbieterexport muss noch im Live-Test bestätigt werden. Der bisherige lokale Seitenimport bleibt zusätzlich vorhanden.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1300.apk",
+  "sha256": "ab78b0135f2fb5daef8d988efdc13a31536e6f1afe6c9e191a7f04b61ad435f8"
 }
