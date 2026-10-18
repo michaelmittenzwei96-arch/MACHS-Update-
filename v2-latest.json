@@ -1,7 +1,7 @@
 {
-  "versionCode": 1249,
-  "versionName": "2.0.249",
-  "notes": "Fitness Nation: Bereits erkannte Verwaltungs- und Finanzübersichten können nach ausdrücklicher Studiobestätigung mit einem Klick erneut gelesen werden (maximal 12 sichere Seiten pro Lauf). Auch lokal verschlüsselt gespeicherte Übersichtswege dienen bei Ausfall des zentralen Navigationsindex als Ersatz. Getrennte Studio-WebView-Sitzungen, gespeicherte Cookies, erneute Sichtprüfung der Anmeldung und Zeitstempel der letzten lokalen Erfassung. Nur bei geöffneter App; kein dauerhafter Hintergrundimport, keine vollständigen Mitgliederakten oder verifizierten Finanzkennzahlen.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1249.apk",
-  "sha256": "dbfb40d6bbddd8e2ecd88fa4ca0d702b076801fe7ee6d7bf8b7770e98ac0d000"
+  "versionCode": 1257,
+  "versionName": "2.0.257",
+  "notes": "Fitness Nation: Neuer bestätigter Mitglieder-Mehrseitenimport für /clients und vergleichbare Listen. Die App erkennt sichere Weiter-Schaltflächen, wartet auf geänderte Listendaten, speichert bis zu 120 Seiten einzeln und verschlüsselt je Studio und Konto und meldet Abbruch bzw. Teilimport ehrlich. Eigene Seitennummern im Archiv; wiederholte Inhalte werden erkannt. Weiterhin keine verifizierte vollständige Mitgliederakte, kein automatisch ausgeführter FN-Export und kein Hintergrundimport.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1257.apk",
+  "sha256": "36b9d046c2283a7dba61d69fd935cd8cdc7fe6c55d169310531e2786599235fc"
 }
