@@ -1,7 +1,7 @@
 {
-  "versionCode": 1300,
-  "versionName": "2.0.300",
-  "notes": "Fitness Nation: Neuer Button Mitglieder automatisch aktualisieren pro Studio. Ein verbundener Railway-Browser versucht nach Studioprüfung selbst Verwaltung > Mitglieder > Übersicht > Export, wählt alle Tabs und Exportfelder, wartet bei Fitness Nation bis die Datei bereit ist und lädt sie in die verschlüsselte Serverdatenbank. Neu- und Bestandsdaten werden abgeglichen, die letzte Originaldatei wird ersetzt und Feldänderungen bleiben historisch gespeichert. Der Auftrag läuft auch bei geschlossener App weiter. Eine separate Fitness-Nation-Server-Anmeldung ist erforderlich; der echte Anbieterexport muss noch im Live-Test bestätigt werden. Der bisherige lokale Seitenimport bleibt zusätzlich vorhanden.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1300.apk",
-  "sha256": "ab78b0135f2fb5daef8d988efdc13a31536e6f1afe6c9e191a7f04b61ad435f8"
+  "versionCode": 1307,
+  "versionName": "2.0.307",
+  "notes": "Fitness Nation: Mitglieder automatisch aktualisieren nutzt jetzt den bereits angemeldeten Webbrowser pro Studio statt der von Fitness Nation abgewiesenen separaten Server-Anmeldung. Die App prüft den Arbeitsbereich, führt die Exportauswahl aus, wartet auf Download und überträgt die komplette CSV/XLSX-Datei nach Freigabe verschlüsselt zur Datenbank. Letzte Originaldatei wird ersetzt, Änderungen und Verlauf werden archiviert. Die App muss während des Web-Exports geöffnet bleiben. Echter Fitness-Nation-Live-Test steht noch aus. Grimma und Neukirchen bleiben getrennt.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1307.apk",
+  "sha256": "de3bcf3697ffa609cee9b65f969ad20314cf047bdcf982f89f8a0e9e3b2f7bf2"
 }
