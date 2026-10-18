@@ -1,7 +1,7 @@
 {
-  "versionCode": 1263,
-  "versionName": "2.0.263",
-  "notes": "Fitness Nation: Neu unter Verwaltung die Server-Erkundung. Nach separater Server-Anmeldung und ausdrücklicher Studiobestätigung läuft eine schreibgeschützte Prüfung von Menüs, Übersichtsseiten, Seitenwechseln und Exporthinweisen auch bei geschlossener App. Auftrag und Fortschritt bleiben gespeichert. Ein datensparsamer JSON-Prüfbericht steht zum Teilen bereit, auch bei Fehlern. Studiozugriffe sind getrennt und geschützt. Weiterhin kein automatischer vollständiger Mitglieder- oder Finanzimport und keine garantierte dauerhaft gültige Anbieter-Sitzung.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1263.apk",
-  "sha256": "be9ba21b30b34df4d409addc8e82bcfc9cee91a0bfc0cca5817e198be2d7c193"
+  "versionCode": 1272,
+  "versionName": "2.0.272",
+  "notes": "Fitness Nation: Jetzt unter Verwaltung pro Studio direkt die bereits angemeldete FN-Webseite verwenden und eine sichere Leserunde starten. Kein zweiter Railway-Login für den lokalen Seitenimport. Nach Studiobestätigung erkundet die App bekannte Menü-/Übersichtsseiten und speichert sichtbare Tabellen verschlüsselt lokal. Suche, Rohdaten-JSON und zusätzlicher datensparsamer KI-Prüfbericht ohne Kundennamen/-nummern sind integriert. Die App muss während der Leserunde geöffnet bleiben. Separate Railway-Erkundung ist nur noch optional und benötigt eigene Anmeldung. Noch KEIN garantierter vollständiger CSV-, Akten- oder Finanzimport und KEIN Hintergrundimport bei geschlossener App.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1272.apk",
+  "sha256": "0499974715bbb5c1cd7c5e28eb1ede0d8ab60f52bda46739d7dccfc105e74624"
 }
