@@ -1,7 +1,7 @@
 {
-  "versionCode": 1167,
-  "versionName": "2.0.167",
+  "versionCode": 1168,
+  "versionName": "2.0.168",
   "notes": "Neukirchen gemeinsam: Aufgaben mit Zuständigen, Notizen, Kalender, Mailstatus und gesendete Mails synchronisieren. Offline-Warteschlange, Konfliktauflösung und Zusammenarbeit unter Einstellungen. V2 Optik: aufgeräumte Startseite und Einstellungen, Benutzerkonto unter Einstellungen, Schnellzugriffe im Planer-Widget über den Studiofiltern, Widget-Hinweise entfernt. Persönliche Farben, Kartenform, Schrift, Startseiten-Elemente sowie helle und dunkle Widget-Designs. Bestehende Konten und Daten bleiben erhalten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1167.apk",
-  "sha256": "eef7dea2ab872457cf3f818f42464ff203287b720f170d7c0607b307e8482b28"
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1168.apk",
+  "sha256": "6120b19b25e8c9f606037ddfc234937d452680a82a6674907efad32c3c54d20b"
 }
