@@ -1,7 +1,7 @@
 {
-  "versionCode": 1220,
-  "versionName": "2.0.220",
-  "notes": "Fitness Nation: FN-Erkundung im angemeldeten Browser, bis zu 12 sichere Übersichtsseiten prüfen, Menüpunkte und Exporthinweise erkennen und die Navigation verschlüsselt je Studio zentral merken. Verwaltung und Finanzen zeigen die gefundenen Wege. Bisherige lokale Tabellenerfassung und JSON-Export bleiben erhalten. Noch kein kompletter automatischer Mitglieder- oder Finanzimport.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1220.apk",
-  "sha256": "2e5779a55e59cc3594b16d61bc4038f0d1e9cf154b3c9dc1125010f11e9aa933"
+  "versionCode": 1225,
+  "versionName": "2.0.225",
+  "notes": "Fitness Nation: größeres In-App-Browserfenster, verbesserte Dashboard- und Exporthinweis-Erkennung. Nach ausdrücklicher Studiobestätigung können bis zu 12 sichere Übersichtsseiten samt sichtbaren Tabellen lokal verschlüsselt aktualisiert und in Verwaltung oder Finanzen durchsucht werden. Zentral werden nur Menüwege gespeichert, keine Mitgliederakten. Keine vollständige automatische Mitglieder- oder Finanzsynchronisierung.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1225.apk",
+  "sha256": "4241b592c4333b0aafed897407a89715e83fedb5a5afe8a45f1f7c90346b3ff1"
 }
