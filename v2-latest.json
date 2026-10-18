@@ -1,7 +1,7 @@
 {
-  "versionCode": 1175,
-  "versionName": "2.0.175",
-  "notes": "Neukirchen gemeinsam: Aufgaben mit Zuständigen, Notizen, Kalender, Mailstatus und gesendete Mails synchronisieren. Offline-Warteschlange, Konfliktauflösung und Zusammenarbeit unter Einstellungen. V2 Optik: aufgeräumte Startseite und Einstellungen, Benutzerkonto unter Einstellungen, Schnellzugriffe im Planer-Widget über den Studiofiltern, Widget-Hinweise entfernt. Persönliche Farben, Kartenform, Schrift, Startseiten-Elemente sowie helle und dunkle Widget-Designs. Bestehende Konten und Daten bleiben erhalten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1175.apk",
-  "sha256": "7c12b924a5652838e0ed56133d891e91888a8b9325eda3810f3a25cdbfae602f"
+  "versionCode": 1204,
+  "versionName": "2.0.204",
+  "notes": "Gemeinsames Update: Sprachassistent, Planer V2, Verwaltung und Finanzen. Fitness Nation: getrennte Studio-Anmeldung mit Datenschutz-Häkchen und verschlüsselten Sitzungen. Oli: Neukirchen und drei E-Mail-Postfächer inklusive Geschäftlich-Gmail. Live-Daten erst nach Freigabe der Verbindung.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1204.apk",
+  "sha256": "d31a91545f40e15bdf2fc7e6dcbca02e9f59731b4b6c9876a3c79b3e438c12e9"
 }
