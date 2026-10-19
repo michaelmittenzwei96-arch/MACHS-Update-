@@ -1,7 +1,7 @@
 {
-  "versionCode": 1314,
-  "versionName": "2.0.314",
+  "versionCode": 1318,
+  "versionName": "2.0.318",
   "notes": "Fitness Nation Menüfix: Der Pfeil rechts neben Mitglieder wird jetzt gezielt geöffnet, und die App wartet auf das sichtbare Untermenü Übersicht, bevor sie fortfährt. Das bereits geöffnete Verwaltung-Menü wird erkannt. Der Export auf dem Dashboard wird nicht mehr versehentlich mit dem Mitgliederexport verwechselt. Nach Bestätigung verwendet der Import weiterhin deine bereits angemeldete FN-Webseite (kein zweiter Server-Login). Dateiübernahme und verschlüsselte Mitgliederhistorie sind vorbereitet. Echter FN-Liveexport noch nicht bestätigt. Die App während des Downloads geöffnet lassen; Grimma und Neukirchen sind getrennt.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1314.apk",
-  "sha256": "89cb49241815cf576c611183ead067e841fa9dd9aadf2f77aafd89e78b8225d4"
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1318.apk",
+  "sha256": "21c9ee37032cb54883b6bb666f482f93cce5d9602fc889d05514a348fe3c1d29"
 }
