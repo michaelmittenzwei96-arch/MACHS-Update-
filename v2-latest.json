@@ -1,7 +1,7 @@
 {
-  "versionCode": 1350,
-  "versionName": "2.0.350",
-  "notes": "Fit+ Planer: Neue Studio-Cockpits in Verwaltung und Finanzen mit Umschalter für Grimma/Neukirchen, KPI-Karten, Monatsdiagrammen und Berichtsverlauf. Gespeicherte Fitness-Nation-Monatsdateien werden erneut konservativ nach eindeutigen Mitgliedsnummern, Status und Beiträgen analysiert. Beitragsvolumen ist kein Umsatz. Studio-getrenntes historisches KI-Gedächtnis; optional Obsidian-Ordner verbinden und nur anonymisierte Monatskennzahlen als Markdown synchronisieren. Obsidian erfordert ausdrückliche Ordnerfreigabe; unerkannte Spalten müssen anhand einer echten anonymisierten FN-Datei nachgeschärft werden.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1350.apk",
-  "sha256": "e895ee10e53ea25de24f5475aba699c2035ff3439a1a765a83533d7d37e378e6"
+  "versionCode": 1360,
+  "versionName": "2.0.360",
+  "notes": "Studio-Dashboards: Aussagekräftige Datenqualität für Fitness-Nation-Monatsberichte. Eindeutige Mitglieds-IDs und mehrfach vorkommende Berichtszeilen werden getrennt; Vertragsstatus- und Beitragsabdeckung angezeigt. Die App zeigt nicht erkannte Spaltenüberschriften ohne Kundendaten und bietet Kopieren zur gezielten Feldzuordnung. Vertragsbeginne im ausgewählten Monat nur bei vorhandenem Datumsfeld. Bereits gespeicherte verschlüsselte CSV-Dateien werden automatisch erneut geprüft. Monatsdiagramme erst ab zwei vergleichbaren Monaten.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1360.apk",
+  "sha256": "0b6373b452999b1ff9d2b297294a05ba3d3838cdaacf837fc2c05bf0751f8575"
 }
