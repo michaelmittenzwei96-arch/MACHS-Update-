@@ -1,7 +1,7 @@
 {
-  "versionCode": 1329,
-  "versionName": "2.0.329",
-  "notes": "Fitness Nation: Automatischer Mitgliederexport aus der eigenen angemeldeten FN-Websitzung, Navigation durch Verwaltung und Mitgliederübersicht, sicherer Importstatus über das Planer-Gateway sowie getrennte Studioberechtigungen. Exportassistent und mehrseitige Listen berücksichtigt. Der echte FN-Liveexport muss am Gerät noch bestätigt werden. App bis zum Abschluss des Downloads geöffnet lassen.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1329.apk",
-  "sha256": "05fb4e88ce2c595a676ce04fe78688e55248d31581c439e411b66c67460629eb"
+  "versionCode": 1338,
+  "versionName": "2.0.338",
+  "notes": "Fitness Nation: Schlanke Dashboard-Ansicht mit zwei Schritten. Monatsbericht aus der bestehenden Studio-Webanmeldung herunterladen und erst nach Bestätigung verschlüsselt speichern. Monatsberichte werden getrennt von vollständigen Mitgliederdaten verwaltet; erkannte Kennzahlen werden angezeigt, PDF bleibt zunächst archiviert. Alte FN-Test- und Erkundungsbuttons aus Verwaltung und Browser entfernt. Live-Download des Anbieterberichts muss mit dem eigenen FN-Konto bestätigt werden.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1338.apk",
+  "sha256": "189560811cb2ab3b05b3f89242b6e324e2c37d018565688e4150f3bf52cfee8b"
 }
