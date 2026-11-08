@@ -1,7 +1,7 @@
 {
-  "versionCode": 1360,
-  "versionName": "2.0.360",
-  "notes": "Studio-Dashboards: Aussagekräftige Datenqualität für Fitness-Nation-Monatsberichte. Eindeutige Mitglieds-IDs und mehrfach vorkommende Berichtszeilen werden getrennt; Vertragsstatus- und Beitragsabdeckung angezeigt. Die App zeigt nicht erkannte Spaltenüberschriften ohne Kundendaten und bietet Kopieren zur gezielten Feldzuordnung. Vertragsbeginne im ausgewählten Monat nur bei vorhandenem Datumsfeld. Bereits gespeicherte verschlüsselte CSV-Dateien werden automatisch erneut geprüft. Monatsdiagramme erst ab zwei vergleichbaren Monaten.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1360.apk",
-  "sha256": "0b6373b452999b1ff9d2b297294a05ba3d3838cdaacf837fc2c05bf0751f8575"
+  "versionCode": 1444,
+  "versionName": "2.0.444",
+  "notes": "Studioverwaltung und Finanzen: A Cockpit, B Controlling und C Kombination; verschlüsseltes Monatsarchiv fuer FN-Mitglieder, FN-Berichte, Stripe und MyFactura; Mitgliederakten mit Suche, Verträgen, Forderungen, Kontaktdaten und Import-Aenderungen; sicherer KI-Befehl zum Oeffnen einer Akte. Keine automatische FN-Live-Verbindung; Import nur manuell nach Anmeldung. MyFactura-Betraege werden nur bei bestandener Plausibilitaetspruefung angezeigt. Zahlungsverknuepfungen sind teilweise und keine Buchhaltungsvollstaendigkeit.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1444.apk",
+  "sha256": "6733b9acb129bd316a71e7a30d41d4f2d8dded13f548623696beb1918376b048"
 }
