@@ -1,7 +1,7 @@
 {
-  "versionCode": 1340,
-  "versionName": "2.0.340",
-  "notes": "Fitness Nation: Monatsbericht jetzt manuell direkt im FN-Dashboard herunterladen. Die App erkennt den Download auch ohne vorherigen Startknopf. Alternativ heruntergeladene PDF-, CSV- oder XLSX-Datei per Android-Dateiauswahl übernehmen, anschließend Berichtsmonat wählen und explizit Speichern & auswerten drücken. Verschlüsseltes Monatsarchiv getrennt nach Studio; bestehende Mitgliederliste bleibt unverändert. PDF wird zunächst nur archiviert; automatische PDF-Auswertung benötigt eine unterstützte Berichtsstruktur.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1340.apk",
-  "sha256": "311fd238a84cf0140d960c29c1be6238b8b98fd2147cd07cd15ba8e48f9c6e35"
+  "versionCode": 1350,
+  "versionName": "2.0.350",
+  "notes": "Fit+ Planer: Neue Studio-Cockpits in Verwaltung und Finanzen mit Umschalter für Grimma/Neukirchen, KPI-Karten, Monatsdiagrammen und Berichtsverlauf. Gespeicherte Fitness-Nation-Monatsdateien werden erneut konservativ nach eindeutigen Mitgliedsnummern, Status und Beiträgen analysiert. Beitragsvolumen ist kein Umsatz. Studio-getrenntes historisches KI-Gedächtnis; optional Obsidian-Ordner verbinden und nur anonymisierte Monatskennzahlen als Markdown synchronisieren. Obsidian erfordert ausdrückliche Ordnerfreigabe; unerkannte Spalten müssen anhand einer echten anonymisierten FN-Datei nachgeschärft werden.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1350.apk",
+  "sha256": "e895ee10e53ea25de24f5475aba699c2035ff3439a1a765a83533d7d37e378e6"
 }
