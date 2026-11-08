@@ -1,7 +1,7 @@
 {
-  "versionCode": 1444,
-  "versionName": "2.0.444",
+  "versionCode": 1471,
+  "versionName": "2.0.471",
   "notes": "Studioverwaltung und Finanzen: A Cockpit, B Controlling und C Kombination; verschlüsseltes Monatsarchiv fuer FN-Mitglieder, FN-Berichte, Stripe und MyFactura; Mitgliederakten mit Suche, Verträgen, Forderungen, Kontaktdaten und Import-Aenderungen; sicherer KI-Befehl zum Oeffnen einer Akte. Keine automatische FN-Live-Verbindung; Import nur manuell nach Anmeldung. MyFactura-Betraege werden nur bei bestandener Plausibilitaetspruefung angezeigt. Zahlungsverknuepfungen sind teilweise und keine Buchhaltungsvollstaendigkeit.",
-  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1444.apk",
-  "sha256": "6733b9acb129bd316a71e7a30d41d4f2d8dded13f548623696beb1918376b048"
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/machs-v1471.apk",
+  "sha256": "d5f561992a5cd01eac858f8fc5df3f86d2514fac943fa59cdf899189b5b554d4"
 }
