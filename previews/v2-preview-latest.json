@@ -1,0 +1,9 @@
+{
+  "versionCode": 1565,
+  "versionName": "2.0.565",
+  "notes": "Testversion: Postfaecher je Nutzer, Finanzabgleich mit Quellen, Mitgliederakten und verschluesselte Sicherung/Wiederherstellung. Produktivabnahme am echten Telefon steht noch aus.",
+  "apkUrl": "https://raw.githubusercontent.com/michaelmittenzwei96-arch/MACHS-Update-/main/previews/fitplus-planer-2.0.565-test.apk",
+  "sha256": "1c4ae6a09efc005197b2f343d1ac764660a4cd900cb3a10ec848b1ed554a21ea",
+  "sourceCommit": "6c832231a6d2abe8bbf73e68968c99ead5fde390",
+  "sourceWorkflowRun": 42601211321
+}
